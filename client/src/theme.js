@@ -6,6 +6,14 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
     margin: 0;
   }
+
+  #cape-canaveral {
+    display: flex:
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
 `;
 
 export default GlobalStyle;
